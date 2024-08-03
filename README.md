@@ -9,7 +9,8 @@
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&layout=compact&theme=vision-friendly-dark">
-  <img width="50%" height="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=pntayorange&layout=compact&theme=vision-friendly-dark">
+  <br>
+  <img width="50%" height="50%" src ="https://github-readme-streak-stats.herokuapp.com?user=pntayorange&show_icons=true&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ### Challenge
