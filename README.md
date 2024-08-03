@@ -12,18 +12,16 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
-#Challenge
+
+### Challenge
+
 | Challenge | Result | Team | Date |<br>
 |-----|-----|-----|-----| <br>
 |-----|-----|-----|-----| <br>
 |-----|-----|-----|-----| <br>
 |-----|-----|-----|-----| <br>
 
-
 ### Algorithms [LeetCode](https://leetcode.com/u/pntay_orange/)
-
-
-
 
 <p align="center">
  <img width="1000" src="Snake.svg" alt="snake"/>
