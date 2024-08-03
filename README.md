@@ -19,7 +19,11 @@
 |-----|-----|-----|-----|
 |-----|-----|-----|-----|
 |-----|-----|-----|-----|
-### Algorithms [LeetCode[] (https://leetcode.com/u/pntay_orange/)]
+
+### Algorithms [LeetCode](https://leetcode.com/u/pntay_orange/)
+
+
+
 
 <p align="center">
  <img width="1000" src="assets/Snake.svg" alt="snake"/>
