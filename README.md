@@ -5,8 +5,10 @@
 - 📫 How to reach me phamngoctaydl@gmail.com
 - 😄 Pronouns: Alu.
 - ⚡ Fun fact: Explore!
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true)
-  ### Challenge
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true)
+
+#Challenge
 | Challenge | Result | Team | Date |
 |-----|-----|-----|-----|
 |-----|-----|-----|-----|
@@ -15,4 +17,3 @@
 |-----|-----|-----|-----|
 ### Algorithms [LeetCode[]https://leetcode.com/u/pntay_orange/]
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
