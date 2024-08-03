@@ -9,7 +9,7 @@
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&&size_weight=0.0005&&count_weight=0.3&&layout=compact&&theme=vision-friendly-dark">
-
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
 </p>
 
