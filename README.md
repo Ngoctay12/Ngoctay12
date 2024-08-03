@@ -5,6 +5,7 @@
 - 📫 How to reach me phamngoctaydl@gmail.com
 - 😄 Pronouns: Alu.
 - ⚡ Fun fact: Explore!
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true)
   ### Challenge
 | Challenge | Result | Team | Date |
 |-----|-----|-----|-----|
