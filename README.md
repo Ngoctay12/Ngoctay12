@@ -9,13 +9,10 @@
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&layout=compact&theme=vision-friendly-dark">
-  <img height="50%" width="200"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pntayorange&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
 </p>
 
 ### Challenge
 
-| Challenge | Result | Team | Date |<br>
 |-----|-----|-----|-----| <br>
 |-----|-----|-----|-----| <br>
 |-----|-----|-----|-----| <br>
